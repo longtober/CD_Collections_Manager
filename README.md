@@ -1,7 +1,7 @@
 CD_Collections_Manager
 ======================
 
-This is a assignment for Core Java course. 
+This is an assignment for my Core Java course. 
 This assignment is a good demonstration for: 
 - Object Serializable
 - Write/read Object to/from file
